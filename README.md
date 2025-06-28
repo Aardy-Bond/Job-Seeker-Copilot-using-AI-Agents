@@ -23,8 +23,8 @@ The finished documents are delivered as downloadable `.md` files you can tweak b
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPO_URL_HERE>
-cd <PROJECT_FOLDER_NAME>
+git clone https://github.com/Aardy-Bond/Job-Seeker-Copilot-using-AI-Agents/
+cd Job-Seeker-Copilot-using-AI-Agents
 ```
 
 ### 2. Install dependencies
@@ -84,7 +84,5 @@ Key libraries & services:
 
 ### 🔧 Placeholders to replace
 
-- `<YOUR_REPO_URL_HERE>` – repository url
-- `<PROJECT_FOLDER_NAME>` – folder name of your clone
 - `<YOUR_GEMINI_KEY>` – Google Generative AI key
 - `<YOUR_SERPER_KEY>` – Serper key
